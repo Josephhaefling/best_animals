@@ -1,0 +1,6 @@
+humans
+monkeys
+dogs
+goats
+pigs
+rats
